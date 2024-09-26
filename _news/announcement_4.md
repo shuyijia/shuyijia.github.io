@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our work on pre-training GNNs has been accepted by Digital Discovery.
+Review paper on GNNs accepted by Nature Reviews Electrical Engineering.
